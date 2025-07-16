@@ -1,6 +1,6 @@
 ## Data Analysis Using Spark
 
-##Project Overview
+## Project Overview
 
 This project demonstrates hands-on data analysis using Apache Spark and PySpark. The workflow includes:
 
@@ -11,6 +11,8 @@ This project demonstrates hands-on data analysis using Apache Spark and PySpark.
   - Calculating average salary by department
   - Filtering employees by department or name patterns
   - Aggregating and joining data to answer key business questions
+
+
 
 
 ## Technologies Used
