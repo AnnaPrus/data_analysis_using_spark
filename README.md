@@ -12,7 +12,6 @@ This project demonstrates hands-on data analysis using Apache Spark and PySpark.
   - Filtering employees by department or name patterns
   - Aggregating and joining data to answer key business questions
 
----
 
 ## Technologies Used
 
